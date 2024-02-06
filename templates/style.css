@@ -1,0 +1,17 @@
+H1, H2 {
+  color: #000080;
+  font-size: 200%;
+  font-family: Arial, Verdana, sans-serif;
+  text-align: center;
+  text-shadow: offX1 offY1 blur1 color1, offX2 offY2
+ blur2 color2, offX3 offY3 blur3 color3;
+}
+P {
+  padding-left: 20px;
+  white-space: normal;
+  word-break: normal;
+  writing-mode: vertical-rl;
+  word-spacing: 10px;
+  text-transform: lowercase;
+  
+}
